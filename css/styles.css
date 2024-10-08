@@ -150,12 +150,12 @@ font-size: 20px;
         line-height: 150%;
         letter-spacing: 0.02em;
         color: #434455;
-};
+}
 
 /*-------TEAM-------*/
 
-.team {
-    background-color: #F4F4FD;
+.team{
+    background-color:#f4f4fd;
 }
 
 .team-title {
